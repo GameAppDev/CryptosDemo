@@ -3,7 +3,7 @@
 // ViperExample
 //
 // Created on 19.12.2021.
-// Copyright (c)  APPWOX. All rights reserved.
+// Oguzhan Yalcin
 //
 //
 //
@@ -12,6 +12,7 @@
  Talks with: Interactor Router View
  Class, Protocol
  */
+
 import Foundation
 
 enum ErrorType: Error {

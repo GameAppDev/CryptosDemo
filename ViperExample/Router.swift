@@ -3,7 +3,7 @@
 // ViperExample
 //
 // Created on 19.12.2021.
-// Copyright (c)  APPWOX. All rights reserved.
+// Oguzhan Yalcin
 //
 //
 //
@@ -12,6 +12,7 @@
  Class, Protocol
  EntryPoint
  */
+
 import Foundation
 import UIKit
 
